@@ -11,7 +11,7 @@
 - 🔉 Active podcasts listener
 - 🏴‍☠️ Fun fact: I'm a huge fan of One Piece
 
-##### Project worth mentionning
+##### Projects worth mentionning
 - [ddd-factory-sample](https://github.com/pierregoudjo/ddd-factory-sample)
 - [dotfiles](https://github.com/pierregoudjo/dotfiles)
 
