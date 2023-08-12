@@ -1,12 +1,12 @@
 ### Hi there 👋🏾
 
 
-#### I'm an AWS Solution Architect and software developer working in Monaco at [Ynpact](https://www.ynpact.com/).
+#### I'm an AWS Solution Architect and software developer working in France at [Snef Lab](https://www.snef.fr/sneflab/)
 
 ##### Bio
 
-- ⚙️ I use daily: `kotlin`, `javascript`, `typescript`, `python`
-- 🌱 Currently learning `scheme`, `fsharp`
+- ⚙️ I use daily: `terraform`, `javascript`, `shell`
+- 🌱 Currently learning `scheme`, `clojure`
 - 🧑🏾‍💻 Avid macOS/Unix user
 - 🔉 Active podcasts listener
 - 🏴‍☠️ Fun fact: I'm a huge fan of One Piece
@@ -14,6 +14,7 @@
 ##### Projects worth mentionning
 - [ddd-factory-sample](https://github.com/pierregoudjo/ddd-factory-sample)
 - [dotfiles](https://github.com/pierregoudjo/dotfiles)
+- [ClojureForTheImpatientMaterial](https://github.com/pierregoudjo/ClojureForTheImpatientMaterial)
 
 
 
