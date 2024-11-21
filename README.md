@@ -6,16 +6,9 @@
 ##### Bio
 
 - ⚙️ I use daily: `terraform`, `javascript`, `shell`
-- 🌱 Currently learning `scheme`, `clojure`
 - 🧑🏾‍💻 Avid macOS/Unix user
 - 🔉 Active podcasts listener
 - 🏴‍☠️ Fun fact: I'm a huge fan of One Piece
-
-##### Projects worth mentionning
-- [ddd-factory-sample](https://github.com/pierregoudjo/ddd-factory-sample)
-- [dotfiles](https://github.com/pierregoudjo/dotfiles)
-- [ClojureForTheImpatientMaterial](https://github.com/pierregoudjo/ClojureForTheImpatientMaterial)
-- [Clojure for the Brave and True Notebooks](https://github.com/pierregoudjo/ClojureForTheBraveAndTrue)
 
 
 
